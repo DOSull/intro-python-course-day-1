@@ -1,4 +1,4 @@
-# WCC City Insights GIS team Python training for GIS analysts
+# Python training for GIS analysts
 ## Day 1 The core `python` language
 ### Session 1 Language fundamentals
 
