@@ -1,5 +1,5 @@
-# Python training for GIS analysts
-## Day 1 The core `python` language
+# Python training for GIS analysts - Day 1
+## Core `python`
 ### Session 1 Language fundamentals
 
 | Time   | Topic |
